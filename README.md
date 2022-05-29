@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Sou estudante de Data Science.
-- 🌱 Estou aprendendo Python, Machine Learning, SQL, Power BI.
+- 🌱 Estou aprendendo Python, Machine Learning, SQL e Power BI.
 - 😄 Pronomes: ele/dele
 
 ##
