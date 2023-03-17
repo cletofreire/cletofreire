@@ -1,10 +1,18 @@
 ### Olá! Me chamo Cleto Freire
 
-##
+## Seja bem vindo(a)!! 👋
 
-- 🔭 Sou estudante de Data Science.
-- 🌱 Estou aprendendo Python, Machine Learning, SQL e Power BI.
 - 😄 Pronomes: ele/dele
+- 🔭 Sou estudante de Data Science em inicio de carreira   atualmente trabalho como Analista Ambiental 🌱.
+- 🌱 Tenho conhecimentos em:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+          
+- 📫 Como entrar em contato comigo:
+
+<a href = "mailto:cletofreire@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/cleto-freire-data-science/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 ##
 
