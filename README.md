@@ -3,7 +3,7 @@
 ## Seja bem vindo(a)!! 👋
 - 😄 Pronomes: ele/dele
 - Cientista de dados com 1 ano de experiência. Em minha formação acadêmica, me familiarizei com a linguagem R para realizar análises estatísticas na pesquisa científica. Tendo vivido experiencias anteriores com dados na academia, agora, me firmo como estudante de ciência de dados com aplicabilidade para o mercado, focando na linguagem Python como ferramenta principal. 
-- Atualmente trabalho como Analista Ambiental 🌱.
+- Atualmente Pesquisador do Projeto Cetáceos da Costa Branca e onde atuo como pesquisador e analista de dados  🌱.
 
 ## 🖥️ Tenho conhecimentos em: 
 
